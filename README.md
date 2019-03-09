@@ -15,4 +15,3 @@ See the benefits of using Quantum Intelligence
 - Fairness
 - Decentralized
 - Anonymous
-Stake income (Year)
